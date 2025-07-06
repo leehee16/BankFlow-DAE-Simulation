@@ -1,7 +1,7 @@
 # 📊 BankFlow DAE Simulation  
-> **유저 행동 기반 금융 DW 구축 및 분석 환경 설계**
+> **유저 행동 기반 DW 구축 및 분석 환경 설계**
 
-## dataset
+## dataset(https://huggingface.co/datasets/ai-lab/MBD)
 #  Multimodal Banking Dataset (MBD)
 
 | 파일명                | 용량      | 설명                                      | 비고                           |
